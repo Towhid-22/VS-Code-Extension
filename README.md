@@ -1,13 +1,13 @@
 # Most important VS Code Extension
- 1. Live Server
- 2. Live Preview
- 3. VSCode Pets
- 4. Prettier code formatter
- 5. Auto Rename Tag
- 6. HTML End Tag Labels
- 7. Indent Rainbow
- 8. Image Preview
- 9. CodeSnap
+ 01. Live Server
+ 02. Live Preview
+ 03. VSCode Pets
+ 04. Prettier code formatter
+ 05. Auto Rename Tag
+ 06. HTML End Tag Labels
+ 07. Indent Rainbow
+ 08. Image Preview
+ 09. CodeSnap
  10. GitHub Themes
  11. Material Icon Theme
  12. Better Comments
@@ -19,3 +19,11 @@
  18. Live Share
  19. Color Highlight
  20. Path Intellisense
+ 21. Bootstrap IntelliSense
+ 22. Live Sass Compiler
+ 23. CSS Flexbox Cheatsheet
+ 24. CSS Compressor
+ 25. CSS Tree
+ 26. Tailwind CSS IntelliSense
+ 27. vscode-pdf
+ 28. Bracket Pair Colorizer 2
