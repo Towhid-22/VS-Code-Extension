@@ -27,3 +27,6 @@
  26. Tailwind CSS IntelliSense
  27. vscode-pdf
  28. Bracket Pair Colorizer 2
+ 29. SVG Previwer
+ 30. vscode-pdf
+ 31. Codeium
