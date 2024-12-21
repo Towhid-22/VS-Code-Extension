@@ -30,3 +30,4 @@
  29. SVG Previwer
  30. vscode-pdf
  31. Codeium
+ 32. ES7+ React/Redux (dsznajder)
